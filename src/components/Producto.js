@@ -83,7 +83,7 @@ function Producto(){
                 <img src={reloj10} alt="Reloj"/>
                <h2>Lorem, ipsum.</h2>
                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni mollitia blanditiis natus dicta error, cum alias ipsam libero odio impedit, fuga at dolore voluptatem illum pariatur cupiditate fugit, ullam amet?</p>
-                <h2>Precio: $999</h2>
+                <h2>Precio: $1000</h2>
                 <button>Ver más</button>
             </article>
             <article>
