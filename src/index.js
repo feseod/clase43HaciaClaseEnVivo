@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './assets/css/master.css';
-import Web from './Web';
+import Encabezado from './components/Encabezado';
+import Banner from './components/Banner'
 import reportWebVitals from './reportWebVitals';
+import Producto from './components/Producto';
+import Footer from './components/Footer';
 
 ReactDOM.render(
   <React.StrictMode>
-    <null />
-  </React.StrictMode>,
+    <Encabezado />
+    <Banner />
+    <Producto />
+    <Footer />
+    </React.StrictMode>,
   document.getElementById('root')
 );
 
